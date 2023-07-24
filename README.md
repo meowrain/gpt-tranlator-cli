@@ -1,11 +1,11 @@
 # 项目名称
 
 <div align="center">
-<h1>gpt-tranlator-cli</h1>
+<h1>gpt-translator-cli</h1>
 一个基本Openai API的终端翻译工具
 <br><br>
 
-[![madewithlove](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/meowrain/gpt-translator-cli)
+[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
 <img src="https://counter.seku.su/cmoe?name=meowrain&theme=r34" /><br>
 </div>
