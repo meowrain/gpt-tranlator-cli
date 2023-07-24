@@ -1,13 +1,21 @@
 # 项目名称
-gpt-tranlator-cli
 
+<div align="center">
+<h1>gpt-tranlator-cli</h1>
+一个基本Openai API的终端翻译工具
+<br><br>
+
+[![madewithlove](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/meowrain/gpt-translator-cli)
+
+<img src="https://counter.seku.su/cmoe?name=meowrain&theme=r34" /><br>
+</div>
 
 ## 安装
-
-git clone https://github.com/meowrain/your_project.git
-cd 
+```bash
+git clone https://github.com/meowrain/gpt-translator-cli
+cd gpt-translator-cli
 npm install
-
+```
 ## 配置
 
 1. 在 OpenAI 网站上申请 API KEY 和 API URL。
