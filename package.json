@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "fy": "node index.js"
+    "fy": "node ./bin/index.js",
+    "config": "node ./setConfig/setConfig.js"
   },
   "keywords": [],
   "author": "",

@@ -9,7 +9,7 @@ const setConfig = () => {
     rl.question('Enter your OpenAI API URL: ', (apiUrl) => {
         rl.question('Enter your OpenAI API Key: ', (apiKey) => {
             const configData = {
-                OPENAI_API_URL: apiUrl,
+                OPENAI_API_URL: apiUrl + "/v1/chat/completions",
                 OPENAI_API_KEY: apiKey,
             };
 

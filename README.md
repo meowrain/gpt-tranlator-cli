@@ -7,7 +7,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
-<img src="https://counter.seku.su/cmoe?name=gpt-translator-cli&theme=r34" /><br>
+<img src="https://counter.seku.su/cmoe?name=meowrain&theme=r34" /><br>
+
 </div>
 
 ## 安装
@@ -19,17 +20,10 @@ npm install
 ## 配置
 
 1. 在 OpenAI 网站上申请 API KEY 和 API URL。
-2. 将 API KEY 和 API URL 配置到 `config/openai_config.json` 文件中。
+2. 配置apikey和apiurl
 
-如果你懒得打开文件弄，可以打开`setConfig`文件夹，然后在这里打开终端，执行`setConfig.exe文件`或者执行`node setConfig.js`
-Linux 下自行编译 cpp 文件
+执行 `npm run config` 进行配置
 
-```json
-{
-  "OPENAI_API_KEY": "your_api_key",
-  "OPENAI_API_URL": "your_api_url"
-}
-```
 
 ## 运行
 

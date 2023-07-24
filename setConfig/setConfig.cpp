@@ -11,7 +11,7 @@ int main(void) {
     std::ofstream configFile("../config/openai_config.json");
     if(configFile.is_open()) {
         configFile << "{\n";
-        configFile << "    \"OPENAI_API_URL\": \"" << apiUrl << "\",\n";
+        configFile << "    \"OPENAI_API_URL\": \"" << apiUrl << "/v1/chat/completions\",\n";
         configFile << "    \"OPENAI_API_KEY\": \"" << apiKey << "\"\n";
         configFile << "}\n";
         configFile.close();
