@@ -7,7 +7,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
-<img src="https://counter.seku.su/cmoe?name=meowrain&theme=r34" /><br>
+<img src="https://counter.seku.su/cmoe?name=gpt-translator-cli&theme=r34" /><br>
 </div>
 
 ## 安装
