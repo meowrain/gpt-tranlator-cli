@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>gpt-translator-cli</h1>
-一个基本Openai API的终端翻译工具
+一个基于Openai API的终端翻译工具
 <br><br>
 
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
