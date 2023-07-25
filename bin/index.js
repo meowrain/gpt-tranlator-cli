@@ -1,6 +1,6 @@
-const { getUserInput } = require('./utils/user_input');
-const { translateUserInput } = require('./utils/openai');
-const {printMessageCharacterByCharacter} = require('./utils/msg_display')
+const { getUserInput } = require('../utils/user_input');
+const { translateUserInput } = require('../utils/openai');
+const {printMessageCharacterByCharacter} = require('../utils/msg_display')
 
 const getBotReply = async () => {
     try {
